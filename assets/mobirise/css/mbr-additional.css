@@ -1203,13 +1203,13 @@ section.lazy-placeholder:after {
 .cid-rYMjayYZrf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rYMjayYZrf .title {
   padding-bottom: 2.5rem;
 }
 .cid-rYMjayYZrf .mbr-text {
-  color: #767676;
+  color: #ff3366;
   margin: 0;
   padding-top: 0.5rem;
 }
@@ -1234,6 +1234,12 @@ section.lazy-placeholder:after {
   .cid-rYMjayYZrf .iconfont-wrapper {
     display: none;
   }
+}
+.cid-rYMjayYZrf H2 {
+  color: #f7ed4a;
+}
+.cid-rYMjayYZrf H5 {
+  color: #c4bc3b;
 }
 .cid-rYMjSJmOZz {
   padding-top: 30px;
