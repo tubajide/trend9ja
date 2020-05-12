@@ -1160,6 +1160,9 @@ section.lazy-placeholder:after {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-rYkOj63U1Y .card-title {
+  text-align: center;
+}
 .cid-rYMhTNa9CG {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1201,15 +1204,15 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYMjayYZrf {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #232323;
 }
 .cid-rYMjayYZrf .title {
   padding-bottom: 2.5rem;
 }
 .cid-rYMjayYZrf .mbr-text {
-  color: #ff3366;
+  color: #ffffff;
   margin: 0;
   padding-top: 0.5rem;
 }
@@ -1236,10 +1239,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rYMjayYZrf H2 {
-  color: #f7ed4a;
+  color: #ffffff;
 }
 .cid-rYMjayYZrf H5 {
-  color: #c4bc3b;
+  color: #ffffff;
 }
 .cid-rYMjSJmOZz {
   padding-top: 30px;
